@@ -1,0 +1,1 @@
+Crypter.exe -i D:\work\freelance\Crypter\test\input.txt -o D:\work\freelance\Crypter\test\output.txt -k qwertyuiQWERTYUIasdfghjkASDFGHJK -a

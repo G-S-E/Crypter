@@ -1,0 +1,13 @@
+D:\work\freelance\Crypter\Crypter\bin\Debug\Crypter.exe.config
+D:\work\freelance\Crypter\Crypter\bin\Debug\Crypter.exe
+D:\work\freelance\Crypter\Crypter\bin\Debug\Crypter.pdb
+D:\work\freelance\Crypter\Crypter\obj\Debug\Crypter.csprojResolveAssemblyReference.cache
+D:\work\freelance\Crypter\Crypter\obj\Debug\Crypter.exe
+D:\work\freelance\Crypter\Crypter\obj\Debug\Crypter.pdb
+D:\work\freelance\Crypter\Crypter\bin\Debug\mscorlib.dll
+D:\work\freelance\Crypter\Crypter\bin\Debug\ru\mscorlib.resources.dll
+D:\work\freelance\Crypter\Crypter\bin\Debug\normidna.nlp
+D:\work\freelance\Crypter\Crypter\bin\Debug\normnfc.nlp
+D:\work\freelance\Crypter\Crypter\bin\Debug\normnfd.nlp
+D:\work\freelance\Crypter\Crypter\bin\Debug\normnfkc.nlp
+D:\work\freelance\Crypter\Crypter\bin\Debug\normnfkd.nlp
